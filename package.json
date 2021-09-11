@@ -1,0 +1,20 @@
+{
+  "name": "vscode-docs-url",
+  "version": "1.0.0",
+  "description": "Testing VSCode ESLint documentation links",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdjermanovic/vscode-docs-url.git"
+  },
+  "keywords": [],
+  "author": "Milos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdjermanovic/vscode-docs-url/issues"
+  },
+  "homepage": "https://github.com/mdjermanovic/vscode-docs-url#readme",
+  "devDependencies": {
+    "eslint": "8.0.0-beta.2"
+  }
+}
